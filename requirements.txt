@@ -1,1 +1,4 @@
-spotipy
+requests
+pillow
+colorthief
+python-dotenv
